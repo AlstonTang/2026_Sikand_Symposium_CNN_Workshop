@@ -1,0 +1,7 @@
+[tool.ruff.lint]
+ignore = ["I001"]
+
+[tool.basedpyright]
+typeCheckingMode = "standard"
+reportAssignmentType = false
+reportOptionalMemberAccess = false
